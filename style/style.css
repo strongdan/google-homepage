@@ -1,0 +1,22 @@
+body, html {
+    font-size: small;
+}
+
+body {
+    display: block;
+    background: #fff;
+    color: #222;
+}
+body, td, a, p, .h {
+    font-family: arial,sans-serif;
+}
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+.logo {
+  height: 25% auto;
+  padding: 109px;
+  text-align: -webkit-center;
+}
